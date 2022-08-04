@@ -1,5 +1,7 @@
 # kottans-frontend
 
+# Привіт! Я Володимир Вишняков і це мій репзиторій для курсу від Kottans.
+
 ## Stage 0. Self-Study
 
 ### General
