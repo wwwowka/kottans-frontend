@@ -13,8 +13,7 @@ Git треба ще вивчать та застосовувать на прак
   Прослухав 1 і 2 тиждень курсу Introduction to Git and GitHub
   </summary>
  
-![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/git_basics/git-learngitbranching-0.jpg)  
-![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/git_basics/git-learngitbranching-1.jpg) 
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/git_basics/git-final.jpg)  
  
 </details> 
 <details>
@@ -22,6 +21,7 @@ Git треба ще вивчать та застосовувать на прак
 Пройшов рівні на learngitbranching.js.org:
 </summary>
  
-![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/git_basics/git-final.jpg)  
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/git_basics/git-learngitbranching-0.jpg)  
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/git_basics/git-learngitbranching-1.jpg) 
  
 </details>
