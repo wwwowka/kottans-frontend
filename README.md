@@ -20,4 +20,5 @@ Git треба ще вивчать та застосовувать на прак
 Пройшов рівні на learngitbranching.js.org:
 </summary>
 ![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/git_basics/git-final.jpg)  
-</details>
+ 
+</details>?raw=true
