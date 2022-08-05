@@ -43,10 +43,10 @@ Linux команди не схожі на командний рядок Windows 
   Виконав вправи на Linux Survival (4 modules)
   </summary>
  
-![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/linux_networking/Quiz1.jpg)  
-![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/linux_networking/Quiz2.jpg)  
-![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/linux_networking/Quiz3.jpg)  
-![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/linux_networking/Quiz4.jpg)  
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_linux_cli/Quiz1.jpg)  
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_linux_cli/Quiz2.jpg)  
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_linux_cli/Quiz3.jpg)  
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_linux_cli/Quiz4.jpg)  
   
 </details> 
 <details>
