@@ -6,11 +6,14 @@
 
 ### General
  
-- [x] 1. Git Basics
+# 1. Git Basics
 
 Git та Github для мене цілком нові поняття, про їх існування я знав, але пряме їх призначення мені було не відомо.
+
 Мене здівувало що нові копії репозиторіїв не займають місця, а ліше фіксують різницю між ними.
+
 Git треба ще вивчать та застосовувать на практиці.
+
 <details>
   <summary>
   Прослухав 1 і 2 тиждень курсу Introduction to Git and GitHub
@@ -29,7 +32,11 @@ Git треба ще вивчать та застосовувать на прак
  
 </details>
 
-- [] 2. Linux CLI and Networking
+Створив репозиторій [kottans-frontend](https://github.com/wwwowka/kottans-frontend).
+
+Надіслав pull-request на [Kottans/mock-repo](https://github.com/kottans/mock-repo/pull/943).
+
+# 2. Linux CLI and Networking
 Linux команди не схожі на командний рядок Windows та DOS, також різні структури дисків, папок та файлів.
 <details>
   <summary>
