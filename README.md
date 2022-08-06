@@ -65,3 +65,23 @@ HTTP: Протокол, який повинен розуміти кожний в
 Мене здивувало що відпрвка звичайтої адреси сайта на сервер, це насправді багато рядків інформаці.
 
 В майбутьньому потрібна буде інформація про типи протоколів їх можливості, а також про безпеку та шифрування.
+
+## Git Collaboration
+
+Зрозумів, що GIT невід'ємна частина для майже любої розробки програмного забезпечення.
+
+Як я зрозумів саме через  Git системи відбувається основна технічна комунікація між розробниками.
+
+Git Collaboration вже використовуємо навіть на перших етапах навчання, далі думаю буде ще більше та частіше.
+
+<details>
+  <summary>
+  Прослухав 3 иа 4 тиждень курсу Introduction to Git and GitHub
+  </summary>
+ 
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_git_collaboration/week3.jpg)  
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_git_collaboration/week4.jpg)  
+ 
+</details> 
+
+Рівні на learngitbranching.js.org пройшов на першому етапі так як не уважно прочитав завдання.
