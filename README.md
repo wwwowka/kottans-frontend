@@ -85,3 +85,40 @@ Git Collaboration вже використовуємо навіть на перш
 </details> 
 
 Рівні на learngitbranching.js.org пройшов на першому етапі так як не уважно прочитав завдання.
+
+###Front-End Basics
+
+## Intro to HTML and CSS
+
+<details>
+  <summary>
+  Прослухав тижні 1 і 2 курсу Intro to HTML & CSS
+  </summary>
+ 
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_html_css_intro/week1.jpg)  
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_html_css_intro/week2.jpg)  
+ 
+</details> 
+
+Багато нових знань, також більше систематизував свої знання по HTML та CSS.
+
+В HTML здивувало як браузер працює с потоком даних, та обробляє код сторінки. В CSS здивувало як стилі можуть кардинально змінювати зовнішній вигляд сторінки.
+
+У майбутньому сподіваюсь буду використовувати все з цих уроків, та навіть більше. Пізніше повернусь до додаткових матеріалів щоб вивчити ще більше.
+
+<details>
+  <summary>
+  Виконав вправи на Codecademy: Learn HTML(Eng) Learn CSS(Eng)
+  </summary>
+ 
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_html_css_intro/html.jpg)  
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_html_css_intro/css.jpg)  
+ 
+</details> 
+
+Багато нових тегів, наприклад:  video, form> range,  form>bun.
+
+Здивувало, що навіть без скриптів  можна створювати різноманітні меню та форми для збору інформації від користувача.
+
+У майбутньому сподіваюсь буду використовувати все з цих уроків, та навіть більше. Пізніше повернусь до додаткових матеріалів щоб вивчити ще більше.
+
