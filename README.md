@@ -86,7 +86,7 @@ Git Collaboration вже використовуємо навіть на перш
 
 Рівні на learngitbranching.js.org пройшов на першому етапі так як не уважно прочитав завдання.
 
-###Front-End Basics
+### Front-End Basics
 
 ## Intro to HTML and CSS
 
