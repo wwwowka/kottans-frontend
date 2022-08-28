@@ -152,3 +152,26 @@ Flex та Grid  в майбутньому буду використовуват�
 Здивувало те що доволі просте на перший погляд завдання, зажадало багато часу, та вивчення додаткової інформації.  
 
 В майбутньому буду використовувати всі здобуті навички з цього завдання, та сподіваюсь, що схожі задачі у подальшому не вимагатиму стільки часу.
+
+## JS Basics
+<details>
+  <summary>
+  Пройшов завдання розділу JavaScript Basics
+  </summary>
+ 
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_js_basics/week4.jpg) 
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_js_basics/week5.jpg) 
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_js_basics/freecodecamp.jpg) 
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_js_basics/freecodecampBasicAlgorithm.jpg) 
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_js_basics/freecodecampBasicDataStr.jpg) 
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_js_basics/freecodecampES6.jpg) 
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_js_basics/freecodecampFunctionalProgramming.jpg) 
+![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_js_basics/freecodecampIntermediateAlgorithm.jpg) 
+</details> 
+Все у цьому розділі було для мене новим.
+
+Здивувало те як деякі складні речі можна легко виконати за допомогою Java Script, та навпаки якісь прості речі дуже складно.
+
+В майбутньому, все с цього розділу буде використовуватися, і сподіваюсь після засвоєння це буде виходити в мене набагато легше та швидше.
+
+
