@@ -178,6 +178,10 @@ Flex та Grid  в майбутньому буду використовуват�
 <details>
   <summary>
   Пройшов завдання розділу Document Object Model
+
+[Demo](https://wwwowka.github.io/task_js_dom/)
+[Code base](https://github.com/wwwowka/task_js_dom)
+
   </summary>
  
 ![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_js_dom/IntermediatAlgorithm.jpg) 
