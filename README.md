@@ -231,3 +231,10 @@ Flex та Grid  в майбутньому буду використовуват�
 
 Зрозуміло що це основи OOP и в майбутньому чекає вивчення ще багато на цю тему.
 
+## OOP Exercise
+
+Переробив завдання tiny JS world.
+
+[Demo](https://wwwowka.github.io/a-tiny-JS-world/indexAdvanced.html) |
+[Code base](https://github.com/wwwowka/a-tiny-JS-world/blob/master/index.js)
+
