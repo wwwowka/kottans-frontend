@@ -236,5 +236,5 @@ Flex та Grid  в майбутньому буду використовуват�
 Переробив завдання tiny JS world.
 
 [Demo](https://wwwowka.github.io/a-tiny-JS-world/indexAdvanced.html) |
-[Code base](https://github.com/wwwowka/a-tiny-JS-world/blob/master/index.js)
+[Code base](https://wwwowka.github.io/a-tiny-JS-world/indexAdvanced.js)
 
