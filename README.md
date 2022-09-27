@@ -238,3 +238,12 @@ Flex та Grid  в майбутньому буду використовуват�
 [Demo](https://wwwowka.github.io/a-tiny-JS-world/indexAdvanced.html) |
 [Code base](https://wwwowka.github.io/a-tiny-JS-world/indexAdvanced.js)
 
+## Memory Pair Game
+
+Зробив гру.
+
+[Demo](https://wwwowka.github.io/memory-pair-game/index.html) |
+[Code base](https://github.com/wwwowka/memory-pair-game/blob/main/script.js)
+
+Намагався  зробити гру візуально гарною. 
+Можливо пізніше добавлю додаткові функції.
